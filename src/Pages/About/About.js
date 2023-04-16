@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
     return (
-        <div id='about' className='pt-6'>
+        <div id='about' className='pt-6 mx-32'>
            <div class="card lg:card-side bg-base-100 shadow-xl">
             <figure><img src="#" alt="" /></figure>
   <div class="card-body">

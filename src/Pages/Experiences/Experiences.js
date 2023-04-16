@@ -2,7 +2,7 @@ import React from 'react';
 
 const Experiences = () => {
     return (
-        <div id='experiences'>
+        <div id='experiences' className=' mx-32'>
             <div class="card lg:card-side bg-base-100 shadow-xl">
             <figure><img src="#" alt="" /></figure>
   <div class="card-body">

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Services = () => {
     return (
-        <div id='services' className='row-span-2 pt-6'>
+        <div id='services' className='row-span-2 pt-6 mx-32'>
             <div className="col-span-3">
             <div class="card w-96 bg-base-100 shadow-xl">
   <figure class="px-10 pt-10">
