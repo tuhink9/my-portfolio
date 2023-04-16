@@ -7,7 +7,7 @@ import About from './Pages/About/About';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App relative">
       <Navbar></Navbar>
       <Home></Home>
       <Footer></Footer>

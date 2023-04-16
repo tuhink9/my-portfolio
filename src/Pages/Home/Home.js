@@ -7,9 +7,9 @@ import Contact from '../Contact/Contact';
 
 const Home = () => {
     return (
-        <div>
-            <Services></Services>
+        <div className='z-30'>
             <About></About>
+            <Services></Services>
             <Experiences></Experiences>
             <Works></Works>
             <Contact></Contact>

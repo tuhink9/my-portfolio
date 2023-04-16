@@ -1,23 +1,24 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     return (
-        <div class="navbar bg-base-100">
+        <div className='z-40 sticky'>
+          <div class="navbar bg-base-100 fixed">
   <div class="flex-1">
     <a class="btn btn-ghost normal-case text-xl">daisyUI</a>
   </div>
   <div class="flex-none">
     <ul class="menu menu-horizontal px-1">
-      <li><Link to="/home">Home</Link></li>
-      <Link to="/about">About</Link>
-      <li><Link to="/services">Services</Link></li>
-      <li><Link to="/experiences">Experiences</Link></li>
-      <li><Link to="/works">Works</Link></li>
-      <li><Link to="/contact">Contact</Link></li>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#experiences">Experiences</a></li>
+      <li><a href="#works">Works</a></li>
+      <li><a href="#contact">Contact</a></li>
     </ul>
   </div>
 </div>
+        </div>
     );
 };
 
