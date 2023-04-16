@@ -4,12 +4,19 @@ const About = () => {
     return (
         <div id='about' className='pt-6 mx-32'>
            <div class="card lg:card-side bg-base-100 shadow-xl">
+            <div className="card-body">
+              <h1 className='text-2xl font-bold'>About me</h1>
             <figure><img src="#" alt="" /></figure>
+            </div>
   <div class="card-body">
-    <h2 class="card-title">New album is released!</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat facilis recusandae unde est facere expedita doloribus consectetur ipsam eius, ut culpa deleniti non minima consequuntur neque commodi dolor aperiam alias iure magni ducimus ipsa. Perferendis excepturi earum, adipisci atque pariatur ipsam magni laudantium voluptatem itaque nobis at vero ad repellendus quam libero? Possimus nihil soluta veniam reiciendis architecto velit ullam quas omnis laboriosam culpa eaque, deserunt eligendi pariatur porro eveniet libero. Vitae perferendis quibusdam, culpa inventore rerum harum, quas dolores sapiente accusantium ex consequatur cumque id quod? Ad eveniet aliquam voluptatem voluptatum! Eligendi deserunt harum quibusdam cumque laudantium dicta repellat!</p>
+    <p>I'm Tuhin Kabir , also known as " Tuhin " , a self-learner of Programming, FullStack Web Development & WordPress Development from Narsingdi , Dhaka, Bangladesh. I love coding, solving problems, building amazing projects, reading books & many other cool stuffs.
+I believe, Knowledge has no limits!
+
+Age: 25 Years
+Country:  Bangladesh
+Freelance:  Available</p>
     <div class="card-actions justify-end">
-      <button class="btn btn-primary">Listen</button>
+      <button class="btn btn-primary">Linkedin Profile</button>
     </div>
   </div>
   <div class="card-body">
