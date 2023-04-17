@@ -5,28 +5,25 @@
     border: 6px solid green;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-    width: 450px;
-    float: left;
+    width: 500px;
   }
 .aline {
     border: 6px solid silver;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-    width: 150px;
-    float: right;
+    width: 100px;
   }
 .line2 {
     border: 6px solid red;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-    width: 450px;
+    width: 475px;
   }
   .bline {
       border: 6px solid silver;
       border-top-right-radius: 5px;
       border-bottom-right-radius: 5px;
-      width: 150px;
-      float: right;
+      width: 125px;
     }
 .line3 {
     border: 6px solid yellow;
@@ -39,44 +36,49 @@
       border-top-right-radius: 5px;
       border-bottom-right-radius: 5px;
       width: 150px;
-      float: right;
     }
 .line4 {
     border: 6px solid orchid;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-    width: 450px;
+    width: 425px;
   }
   .dline {
       border: 6px solid silver;
       border-top-right-radius: 5px;
       border-bottom-right-radius: 5px;
-      width: 150px;
-      float: right;
+      width: 175px;
     }
 .line5 {
     border: 6px solid slateblue;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-    width: 450px;
+    width: 400px;
   }
   .eline {
       border: 6px solid silver;
       border-top-right-radius: 5px;
       border-bottom-right-radius: 5px;
-      width: 150px;
-      float: right;
+      width: 200px;
     }
 .line6 {
     border: 6px solid lightcoral;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-    width: 450px;
+    width: 375px;
   }
   .fline {
       border: 6px solid silver;
       border-top-right-radius: 5px;
       border-bottom-right-radius: 5px;
-      width: 150px;
-      float: right;
+      width: 225px;
     }
+.para {
+  display: inline-flex;
+}
+.skill {
+
+}
+.percent {
+  margin-left: 300px;
+}
