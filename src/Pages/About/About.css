@@ -1,0 +1,82 @@
+.pline1 {
+  display: inline-flex;
+}
+.line1 {
+    border: 6px solid green;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 450px;
+    float: left;
+  }
+.aline {
+    border: 6px solid silver;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 150px;
+    float: right;
+  }
+.line2 {
+    border: 6px solid red;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 450px;
+  }
+  .bline {
+      border: 6px solid silver;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px;
+      width: 150px;
+      float: right;
+    }
+.line3 {
+    border: 6px solid yellow;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 450px;
+  }
+  .cline {
+      border: 6px solid silver;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px;
+      width: 150px;
+      float: right;
+    }
+.line4 {
+    border: 6px solid orchid;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 450px;
+  }
+  .dline {
+      border: 6px solid silver;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px;
+      width: 150px;
+      float: right;
+    }
+.line5 {
+    border: 6px solid slateblue;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 450px;
+  }
+  .eline {
+      border: 6px solid silver;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px;
+      width: 150px;
+      float: right;
+    }
+.line6 {
+    border: 6px solid lightcoral;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 450px;
+  }
+  .fline {
+      border: 6px solid silver;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px;
+      width: 150px;
+      float: right;
+    }

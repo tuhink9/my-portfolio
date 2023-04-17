@@ -1,4 +1,5 @@
 import React from 'react';
+import "./About.css"
 
 const About = () => {
     return (
@@ -21,7 +22,30 @@ Freelance:  Available</p>
   </div>
   <div class="card-body">
     <h2 class="card-title">New album is released!</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore laborum quas dolorem amet quos suscipit sed magni facilis repellendus beatae alias rerum mollitia ea quo iste optio assumenda omnis, illum aperiam debitis sint, provident enim expedita eveniet. Distinctio nemo nam possimus. Eos sunt impedit consequatur illo id commodi consectetur suscipit laboriosam. Quasi, dolore nostrum tempore quibusdam itaque dicta culpa nihil voluptatum, nisi officiis voluptates hic ducimus maiores impedit soluta? Consectetur, quidem? Culpa qui corporis minima. Placeat voluptas expedita, perferendis, eaque aliquam voluptatibus modi aut nihil neque mollitia laudantium impedit velit aliquid qui quas quia repudiandae dolorem ab cupiditate corrupti eum.</p>
+    <div className='pline1'>
+      <div className="line1"></div>
+      <div className="aline"></div>
+    </div>
+    <div className='pline1'>
+      <div className="line2"></div>
+      <div className="bline"></div>
+    </div>
+    <div className='pline1'>
+      <div className="line3"></div>
+      <div className="cline"></div>
+    </div>
+    <div className='pline1'>
+      <div className="line4"></div>
+      <div className="dline"></div>
+    </div>
+    <div className='pline1'>
+      <div className="line5"></div>
+      <div className="eline"></div>
+    </div>
+    <div className='pline1'>
+      <div className="line6"></div>
+      <div className="fline"></div>
+    </div>
     <div class="card-actions justify-end">
     </div>
   </div>
