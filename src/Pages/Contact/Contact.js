@@ -1,9 +1,17 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Contact = () => {
     return (
-        <div id='contact'>
-            <div className="flex min-h-full items-center justify-center px-4 py-12 sm:px-6 lg:px-8">
+        <div id='contact' className='card lg:card-side '>
+          <div className="card-body m-16">
+              <h1 className='text-4xl font-bold'>Say Hi!</h1>
+              <h3 className='text-2xl font-bold'>Let's talk about everything!</h3>
+              <p>
+              Don't like forms? Send me an <Link className='text-green-600 font-bold' to="tuhinkabir523@gmail.com">email</Link>
+              </p>
+          </div>
+            <div className=" card-body flex min-h-full items-center justify-center px-4 py-12 sm:px-6 lg:px-8">
         <div className="w-full max-w-md space-y-8">
           <div>
             <img

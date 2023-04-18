@@ -4,17 +4,29 @@ const Experiences = () => {
     return (
         <div id='experiences' className=' mx-32'>
             <div class="card lg:card-side bg-base-100 shadow-xl">
-            <figure><img src="#" alt="" /></figure>
   <div class="card-body">
-    <h2 class="card-title">New album is released!</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat facilis recusandae unde est facere expedita doloribus consectetur ipsam eius, ut culpa deleniti non minima consequuntur neque commodi dolor aperiam alias iure magni ducimus ipsa. Perferendis excepturi earum, adipisci atque pariatur ipsam magni laudantium voluptatem itaque nobis at vero ad repellendus quam libero? Possimus nihil soluta veniam reiciendis architecto velit ullam quas omnis laboriosam culpa eaque, deserunt eligendi pariatur porro eveniet libero. Vitae perferendis quibusdam, culpa inventore rerum harum, quas dolores sapiente accusantium ex consequatur cumque id quod? Ad eveniet aliquam voluptatem voluptatum! Eligendi deserunt harum quibusdam cumque laudantium dicta repellat!</p>
+    <span className='text-left'>2013</span>
+    <h2 class="card-title">Completed SSC</h2>
+    <p className='text-left font-semibold'>Passed "Secondary School Certificate" in 2013 in Dhaka with the result of GPA of 5.00.</p>
+    <span className='text-left'>2015</span>
+    <h2 class="card-title">Completed HSC</h2>
+    <p className='text-left font-semibold'>Passed HSC Examination in "Humanities Group" with the result of GPA 4.69.</p>
+    <span className='text-left'>2017 - 2021</span>
+    <h2 class="card-title">Bachelor Degree</h2>
+    <p className='text-left font-semibold'>Depertment of Econimices , National University Of Bangladesh .</p>
     <div class="card-actions justify-end">
-      <button class="btn btn-primary">Listen</button>
     </div>
   </div>
   <div class="card-body">
-    <h2 class="card-title">New album is released!</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore laborum quas dolorem amet quos suscipit sed magni facilis repellendus beatae alias rerum mollitia ea quo iste optio assumenda omnis, illum aperiam debitis sint, provident enim expedita eveniet. Distinctio nemo nam possimus. Eos sunt impedit consequatur illo id commodi consectetur suscipit laboriosam. Quasi, dolore nostrum tempore quibusdam itaque dicta culpa nihil voluptatum, nisi officiis voluptates hic ducimus maiores impedit soluta? Consectetur, quidem? Culpa qui corporis minima. Placeat voluptas expedita, perferendis, eaque aliquam voluptatibus modi aut nihil neque mollitia laudantium impedit velit aliquid qui quas quia repudiandae dolorem ab cupiditate corrupti eum.</p>
+    <span className='text-left'>2018 - 2019</span>
+    <h2 class="card-title">Worked as A Graphic Designer</h2>
+    <p className='text-left font-semibold'>In those years, I tried my luck with local clients and markets. Ah, those golden days!</p>
+    <span className='text-left'>2019 - 2020</span>
+    <h2 class="card-title"> Web Designer & WordPress</h2>
+    <p className='text-left font-semibold'>Besides developing skills, I've worked with many clients to build their websites in these years.</p>
+    <span className='text-left'>2020 - Present</span>
+    <h2 class="card-title"> Frontend Web Developer</h2>
+    <p className='text-left font-semibold'>Started making new plans for the future, and still working to fulfill them.</p>
     <div class="card-actions justify-end">
     </div>
   </div>
