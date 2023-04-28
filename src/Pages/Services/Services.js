@@ -2,9 +2,9 @@ import React from 'react';
 
 const Services = () => {
     return (
-        <div id='services' className='grid grid-rows-2 gap-4 mb-8 mt-6 mx-64'>
+        <div id='services' className='grid grid-rows-2 ps-16 mb-8 mt-6 mx-64'>
             <div className="grid grid-cols-3">
-            <div class="card w-96 bg-base-100 shadow-xl ">
+            <div class="card w-96 bg-base-100 shadow-xl mb-4">
   <figure class="px-10 pt-10">
     <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
@@ -17,7 +17,7 @@ Web Design
     </div>
   </div>
 </div>
-<div class="card w-96 bg-base-100 shadow-xl ">
+<div class="card w-96 bg-base-100 shadow-xl  mb-4">
   <figure class="px-10 pt-10">
     <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
@@ -28,7 +28,7 @@ Web Design
     </div>
   </div>
 </div>
-<div class="card w-96 bg-base-100 shadow-xl ">
+<div class="card w-96 bg-base-100 shadow-xl  mb-4">
   <figure class="px-10 pt-10">
     <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
@@ -42,7 +42,7 @@ Determined to deploy a site on WordPress? I can help you A-Z about it till launc
 </div>
             </div>
             <div className="grid grid-cols-3">
-            <div class="card w-96 bg-base-100 shadow-xl ">
+            <div class="card w-96 bg-base-100 shadow-xl  mb-4">
   <figure class="px-10 pt-10">
     <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
@@ -55,7 +55,7 @@ Need a custom dynamic website? Well, I'll help you to build site(s) with React J
     </div>
   </div>
 </div>
-<div class="card w-96 bg-base-100 shadow-xl ">
+<div class="card w-96 bg-base-100 shadow-xl  mb-4">
   <figure class="px-10 pt-10">
     <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
@@ -68,7 +68,7 @@ Who likes slow speed? Speeding up WordPress and Custom websites is like playing 
     </div>
   </div>
 </div>
-<div class="card w-96 bg-base-100 shadow-xl ">
+<div class="card w-96 bg-base-100 shadow-xl  mb-4">
   <figure class="px-10 pt-10">
     <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
