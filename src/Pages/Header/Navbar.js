@@ -3,12 +3,12 @@ import React from 'react';
 const Navbar = () => {
     return (
         <div className='z-40 sticky'>
-          <div class="navbar bg-base-100 fixed">
+          <div class="navbar bg-base-100 fixed ">
   <div class="flex-1">
     <a class="btn btn-ghost normal-case text-xl">daisyUI</a>
   </div>
   <div class="flex-none">
-    <ul class="menu menu-horizontal px-1">
+    <ul class="menu menu-horizontal px-1 ms-96 me-96">
       <li><a href="#home">Home</a></li>
       <li><a href="#about">About</a></li>
       <li><a href="#services">Services</a></li>

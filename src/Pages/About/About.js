@@ -3,19 +3,13 @@ import "./About.css"
 
 const About = () => {
     return (
-        <div id='about' className='pt-6 mx-32'>
+        <div id='about' className='pt-6 mx-64'>
            <div class="card lg:card-side bg-base-100 shadow-xl">
             <div className="card-body">
               <h1 className='text-3xl font-bold'>About me</h1>
             <figure><img src="https://i.ibb.co/vddp3Ph/Tuhin-2.jpg" alt="Tuhin-2" border="0"/></figure>
             </div>
   <div class="card-body">
-    <p>I'm Tuhin Kabir , also known as " Tuhin " , a self-learner of Programming, FullStack Web Development & WordPress Development from Narsingdi , Dhaka, Bangladesh. I love coding, solving problems, building amazing projects, reading books & many other cool stuffs.
-I believe, Knowledge has no limits!
-
-Age: 25 Years
-Country:  Bangladesh
-Freelance:  Available</p>
     <p>I'm Tuhin Kabir , also known as " Tuhin " , a self-learner of Programming, FullStack Web Development & WordPress Development from Narsingdi , Dhaka, Bangladesh. I love coding, solving problems, building amazing projects, reading books & many other cool stuffs.
 I believe, Knowledge has no limits!
 

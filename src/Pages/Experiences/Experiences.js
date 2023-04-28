@@ -2,8 +2,8 @@ import React from 'react';
 
 const Experiences = () => {
     return (
-        <div id='experiences' className=' mx-32'>
-            <div class="card lg:card-side bg-base-100 shadow-xl">
+        <div id='experiences' className=' mx-64'>
+            <div class="card lg:card-side bg-base-100 shadow-xl ">
   <div class="card-body">
     <span className='text-left'>2013</span>
     <h2 class="card-title">Completed SSC</h2>

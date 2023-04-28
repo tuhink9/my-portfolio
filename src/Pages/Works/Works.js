@@ -2,9 +2,9 @@ import React from 'react';
 
 const Works = () => {
     return (
-        <div id='works' className="grid grid-rows-2 gap-4 mb-8 mt-6 mx-32">
+        <div id='works' className="grid grid-rows-2 gap-4 mb-8 mt-6 mx-64">
           <div className="grid grid-cols-3">
-            <div class="card w-96 bg-base-100 shadow-xl">
+            <div class="card w-96 bg-base-100 shadow-xl ">
   <figure class="px-10 pt-10">
     <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
@@ -16,7 +16,7 @@ const Works = () => {
     </div>
   </div>
 </div>
-<div class="card w-96 bg-base-100 shadow-xl">
+<div class="card w-96 bg-base-100 shadow-xl ">
   <figure class="px-10 pt-10">
     <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
@@ -28,7 +28,7 @@ const Works = () => {
     </div>
   </div>
 </div>
-<div class="card w-96 bg-base-100 shadow-xl">
+<div class="card w-96 bg-base-100 shadow-xl ">
   <figure class="px-10 pt-10">
     <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
@@ -42,7 +42,7 @@ const Works = () => {
 </div>
             </div>
             <div className="grid grid-cols-3">
-            <div class="card w-96 bg-base-100 shadow-xl">
+            <div class="card w-96 bg-base-100 shadow-xl ">
   <figure class="px-10 pt-10">
     <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
@@ -54,7 +54,7 @@ const Works = () => {
     </div>
   </div>
 </div>
-<div class="card w-96 bg-base-100 shadow-xl">
+<div class="card w-96 bg-base-100 shadow-xl ">
   <figure class="px-10 pt-10">
     <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
@@ -66,7 +66,7 @@ const Works = () => {
     </div>
   </div>
 </div>
-<div class="card w-96 bg-base-100 shadow-xl">
+<div class="card w-96 bg-base-100 shadow-xl ">
   <figure class="px-10 pt-10">
     <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
   </figure>

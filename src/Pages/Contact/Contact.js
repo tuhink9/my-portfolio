@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Contact = () => {
     return (
-        <div id='contact' className='card lg:card-side '>
+        <div id='contact' className='card lg:card-side  mx-64'>
           <div className="card-body m-16">
               <h1 className='text-4xl font-bold'>Say Hi!</h1>
               <h3 className='text-2xl font-bold'>Let's talk about everything!</h3>
