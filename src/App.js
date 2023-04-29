@@ -12,7 +12,7 @@ import Contact from './Pages/Contact/Contact';
 
 function App() {
   return (
-    <div className="App relative bg-green-50">
+    <div className="App relative bg-slate-50">
       <Navbar></Navbar>
       <Home></Home>
       <About></About>

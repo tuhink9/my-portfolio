@@ -4,7 +4,7 @@ import "./About.css"
 const About = () => {
     return (
         <div id='about' className='pt-6 mx-64'>
-           <div class="card lg:card-side bg-base-100 shadow-xl bg-teal-50">
+           <div class="card lg:card-side bg-base-100 shadow-xl bg-emberald-50">
             <div className="card-body">
               <h1 className='text-3xl font-bold'>About me</h1>
             <figure><img src="https://i.ibb.co/vddp3Ph/Tuhin-2.jpg" alt="Tuhin-2" border="0"/></figure>

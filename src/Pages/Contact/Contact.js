@@ -1,9 +1,26 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import app from '../../Firebase/firebase.init';
+import {GoogleAuthProvider, createUserWithEmailAndPassword, getAuth} from 'firebase/auth';
+
+const auth = getAuth(app);
 
 const Contact = () => {
+  const provider = new GoogleAuthProvider(auth);
+  
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+  const handleFormSubmit = event => {
+    event.preventDefault();
+    createUserWithEmailAndPassword(auth, email, password)
+      .then(result => {
+        const user = result.user;
+        console.log(user)
+      })
+  }
+
     return (
-        <div id='contact' className='card lg:card-side  mx-64'>
+        <div id='contact' className='card lg:card-side bg-emberald-50 mx-64 bg-emberald-50'>
           <div className="card-body m-16">
               <h1 className='text-4xl font-bold'>Say Hi!</h1>
               <h3 className='text-2xl font-bold'>Let's talk about everything!</h3>
@@ -29,7 +46,7 @@ const Contact = () => {
               </a>
             </p>
           </div>
-          <form className="mt-8 space-y-6" action="#" method="POST">
+          <form className="mt-8 space-y-6" action="#" method="POST"  onSubmit={handleFormSubmit}>
             <input type="hidden" name="remember" defaultValue="true" />
             <div className="-space-y-px rounded-md shadow-sm">
               <div>
