@@ -17,7 +17,15 @@ Age: 25 Years
 Country:  Bangladesh
 Freelance:  Available</p>
     <div class="card-actions justify-end">
-      <button class="btn btn-primary">Linkedin Profile</button>
+      <button class="btn btn-primary"><a href="https://docs.google.com/document/d/1tq11_rRvNEtZKa25USLvKYmMdI3ir2XCaJJxsnDX-8Q/export?format=pdf">LinkedIn 
+      Profile</a></button>
+      <button class="btn btn-primary"><a href="https://drive.google.com/file/d/1zuV3uwztC7FlowPcP7eJLKxDzoWqHm-v/export?format=pdf">LinkedIn 
+      Profile</a></button>
+      
+      
+    </div>
+    <div>
+      
     </div>
   </div>
   <div class="card-body">
