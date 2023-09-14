@@ -6,18 +6,13 @@ const About = () => {
         <div id='about' className='pt-6 mx-64'>
            <div class="card lg:card-side bg-base-100 shadow-xl bg-emberald-50">
             <div className="card-body">
-              <h1 className='text-3xl font-bold'>About me</h1>
+              <h1 className='mt-10 text-3xl font-bold'>About me</h1>
             <figure><img src="https://i.ibb.co/vddp3Ph/Tuhin-2.jpg" alt="Tuhin-2" border="0"/></figure>
             </div>
   <div class="card-body">
-    <p>I'm Tuhin Kabir , also known as " Tuhin " , a self-learner of Programming, FullStack Web Development & WordPress Development from Narsingdi , Dhaka, Bangladesh. I love coding, solving problems, building amazing projects, reading books & many other cool stuffs.
-I believe, Knowledge has no limits!
-
-Age: 25 Years
-Country:  Bangladesh
-Freelance:  Available</p>
+    <p className='mt-20'>I'm Tariqul Islam Tuhin , also known as " Tuhin " from Narsingdi , Dhaka, Bangladesh. I am a self-taught Programmer. I have hands-on experience on FullStack Web Development. I love coding, solving problems, building amazing projects. I am passionate about solving complex problems. It makes me happy to work with a team enthusiastically and collaboratively. I am confident that my skills and dedication make me a valuable asset to my future self. I am passionate about Computer Science. In addition to my passion I will engage myself and focus on continuously learning in the field of Computer Science for the rest of my lifetime as a lifelong learner or researcher. I believe, Knowledge has no limits!</p>
     <div class="card-actions justify-end">
-      <button class="btn btn-primary"><a href="export?format=pdf">LinkedIn Profile</a></button>
+      <button class="btn bg-violet-600 "><a href="https://docs.google.com/document/d/1AlSyjLDgeP_Z5AfPZY8v1HWDN1Ft_St79fYUlJ3cQt4/export?format=pdf">Resume</a></button>
     </div>
   </div>
   <div class="card-body">
@@ -31,7 +26,7 @@ Freelance:  Available</p>
       <div className="aline"></div>
     </div>
     <div className='para'>
-      <p className="skill text-xl font-semibold">Javascript(es6), RectJs </p>
+      <p className="skill text-xl font-semibold">Javascript(es6), RectJs, Node, ExpressJs, Mongodb </p>
       <p className="percent">90%</p>
     </div>
     <div className='pline1'>
@@ -39,15 +34,15 @@ Freelance:  Available</p>
       <div className="bline"></div>
     </div>
     <div className='para'>
-      <p className="skill text-xl font-semibold">Node, ExpressJs, Mongodb </p>
-      <p className="percent">85%</p>
+      <p className="skill text-xl font-semibold"> Mongodb, MySQL, OOP </p>
+      <p className="percent">90%</p>
     </div>
     <div className='pline1'>
       <div className="line3"></div>
       <div className="cline"></div>
     </div>
     <div className='para'>
-      <p className="skill text-xl font-semibold">Content Writting </p>
+      <p className="skill text-xl font-semibold">C, C++, Python </p>
       <p className="percent">90%</p>
     </div>
     <div className='pline1'>
@@ -55,16 +50,16 @@ Freelance:  Available</p>
       <div className="dline"></div>
     </div>
     <div className='para'>
-      <p className="skill text-xl font-semibold">Consultancy </p>
-      <p className="percent">70%</p>
+      <p className="skill text-xl font-semibold">Algorithm and Data Structure </p>
+      <p className="percent">80%</p>
     </div>
     <div className='pline1'>
       <div className="line5"></div>
       <div className="eline"></div>
     </div>
     <div className='para'>
-      <p className="skill text-xl font-semibold">Career counselling </p>
-      <p className="percent">90%</p>
+      <p className="skill text-xl font-semibold"> Cloud Computing, Operating System </p>
+      <p className="percent">80%</p>
     </div>
     <div className='pline1'>
       <div className="line6"></div>
