@@ -2,7 +2,7 @@
   display: inline-flex;
 }
 .line1 {
-    border: 6px solid limegreen;
+    border: 6px solid rgb(103, 153, 103);
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     width: 500px;
@@ -14,7 +14,7 @@
     width: 100px;
   }
 .line2 {
-    border: 6px solid orange;
+    border: 6px solid rgb(216, 167, 76);
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     width: 475px;
@@ -26,7 +26,7 @@
       width: 125px;
     }
 .line3 {
-    border: 6px solid orangered;
+    border: 6px solid rgb(225, 122, 84);
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     width: 450px;

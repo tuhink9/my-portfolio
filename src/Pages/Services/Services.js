@@ -6,7 +6,7 @@ const Services = () => {
             <div className="grid grid-cols-3">
             <div class="card w-96 bg-base-100 shadow-xl mb-4 bg-emberald-50">
   <figure class="px-10 pt-10">
-    <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
+    <img src="https://i.ibb.co/LS7yxMw/3094293.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
   <div class="card-body items-center text-center">
     <h2 class="card-title">
@@ -19,7 +19,7 @@ Web Design
 </div>
 <div class="card w-96 bg-base-100 shadow-xl  mb-4 bg-emberald-50">
   <figure class="px-10 pt-10">
-    <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
+    <img src="https://i.ibb.co/n002bSy/4948783.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
   <div class="card-body items-center text-center">
     <h2 class="card-title">PSD To HTML</h2>
@@ -30,7 +30,7 @@ Web Design
 </div>
 <div class="card w-96 bg-base-100 shadow-xl  mb-4 bg-emberald-50">
   <figure class="px-10 pt-10">
-    <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
+    <img src="https://i.ibb.co/mGLZsYB/4860133.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
   <div class="card-body items-center text-center">
     <h2 class="card-title">WordPress Website</h2>
@@ -44,7 +44,7 @@ Determined to deploy a site on WordPress? I can help you A-Z about it till launc
             <div className="grid grid-cols-3">
             <div class="card w-96 bg-base-100 shadow-xl  mb-4 bg-emberald-50">
   <figure class="px-10 pt-10">
-    <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
+    <img src="https://i.ibb.co/LS7yxMw/3094293.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
   <div class="card-body items-center text-center">
     <h2 class="card-title">
@@ -57,7 +57,7 @@ Need a custom dynamic website? Well, I'll help you to build site(s) with React J
 </div>
 <div class="card w-96 bg-base-100 shadow-xl  mb-4 bg-emberald-50">
   <figure class="px-10 pt-10">
-    <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
+    <img src="https://i.ibb.co/C2XPZWS/Wavy-Tech-26-Single-09.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
   <div class="card-body items-center text-center">
     <h2 class="card-title">Speed Optimization</h2>
@@ -70,7 +70,7 @@ Who likes slow speed? Speeding up WordPress and Custom websites is like playing 
 </div>
 <div class="card w-96 bg-base-100 shadow-xl  mb-4 bg-emberald-50">
   <figure class="px-10 pt-10">
-    <img src="/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg" alt="Shoes" class="rounded-xl" />
+    <img src="https://i.ibb.co/J5KYsZW/2106-i201-003-S-m004-c13-call-center-technical-support-isometric-01.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
   <div class="card-body items-center text-center">
     <h2 class="card-title">Tech Support</h2>
@@ -88,3 +88,13 @@ Got stuck somewhere and badly need help or fix? I can be your savior on any tech
 };
 
 export default Services;
+
+/*
+
+<a href="https://ibb.co/dGrN5Zs"><img src="https://i.ibb.co/J5KYsZW/2106-i201-003-S-m004-c13-call-center-technical-support-isometric-01.jpg" alt="2106-i201-003-S-m004-c13-call-center-technical-support-isometric-01" border="0"></a>
+<a href="https://ibb.co/SNCgt2T"><img src="https://i.ibb.co/LS7yxMw/3094293.jpg" alt="3094293" border="0"></a>
+<a href="https://ibb.co/pxtVDsP"><img src="https://i.ibb.co/mGLZsYB/4860133.jpg" alt="4860133" border="0"></a>
+<a href="https://ibb.co/qnnGdw8"><img src="https://i.ibb.co/n002bSy/4948783.jpg" alt="4948783" border="0"></a>
+<a href="https://ibb.co/rsLdSvX"><img src="https://i.ibb.co/C2XPZWS/Wavy-Tech-26-Single-09.jpg" alt="Wavy-Tech-26-Single-09" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>free image hosting</a><br />
+
+*/
