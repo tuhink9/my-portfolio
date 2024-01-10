@@ -19,7 +19,7 @@ Web Design
 </div>
 <div class="card w-96 bg-base-100 shadow-xl  mb-4 bg-emberald-50">
   <figure class="px-10 pt-10">
-    <img src="https://i.ibb.co/n002bSy/4948783.jpg" alt="Shoes" class="rounded-xl" />
+    <img src="https://i.ibb.co/TmdTjJH/20943839.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
   <div class="card-body items-center text-center">
     <h2 class="card-title">PSD To HTML</h2>
@@ -30,7 +30,7 @@ Web Design
 </div>
 <div class="card w-96 bg-base-100 shadow-xl  mb-4 bg-emberald-50">
   <figure class="px-10 pt-10">
-    <img src="https://i.ibb.co/mGLZsYB/4860133.jpg" alt="Shoes" class="rounded-xl" />
+    <img src="https://i.ibb.co/5RLq8HT/5994427.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
   <div class="card-body items-center text-center">
     <h2 class="card-title">WordPress Website</h2>
@@ -44,7 +44,7 @@ Determined to deploy a site on WordPress? I can help you A-Z about it till launc
             <div className="grid grid-cols-3">
             <div class="card w-96 bg-base-100 shadow-xl  mb-4 bg-emberald-50">
   <figure class="px-10 pt-10">
-    <img src="https://i.ibb.co/LS7yxMw/3094293.jpg" alt="Shoes" class="rounded-xl" />
+    <img src="https://i.ibb.co/dmPZVgJ/4758689.jpg" alt="Shoes" class="rounded-xl" />
   </figure>
   <div class="card-body items-center text-center">
     <h2 class="card-title">
@@ -89,12 +89,13 @@ Got stuck somewhere and badly need help or fix? I can be your savior on any tech
 
 export default Services;
 
-/*
+/* 
 
-<a href="https://ibb.co/dGrN5Zs"><img src="https://i.ibb.co/J5KYsZW/2106-i201-003-S-m004-c13-call-center-technical-support-isometric-01.jpg" alt="2106-i201-003-S-m004-c13-call-center-technical-support-isometric-01" border="0"></a>
-<a href="https://ibb.co/SNCgt2T"><img src="https://i.ibb.co/LS7yxMw/3094293.jpg" alt="3094293" border="0"></a>
-<a href="https://ibb.co/pxtVDsP"><img src="https://i.ibb.co/mGLZsYB/4860133.jpg" alt="4860133" border="0"></a>
-<a href="https://ibb.co/qnnGdw8"><img src="https://i.ibb.co/n002bSy/4948783.jpg" alt="4948783" border="0"></a>
-<a href="https://ibb.co/rsLdSvX"><img src="https://i.ibb.co/C2XPZWS/Wavy-Tech-26-Single-09.jpg" alt="Wavy-Tech-26-Single-09" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>free image hosting</a><br />
-
+<a href="https://ibb.co/2ZvJCNY"><img src="https://i.ibb.co/dmPZVgJ/4758689.jpg" alt="4758689" border="0"></a>
+<a href="https://ibb.co/b6HTtZZ"><img src="https://i.ibb.co/NF15RPP/4799410.jpg" alt="4799410" border="0"></a>
+<a href="https://ibb.co/j3HCsH1"><img src="https://i.ibb.co/wpYnjYx/4851443.jpg" alt="4851443" border="0"></a>
+<a href="https://ibb.co/6WF6PCY"><img src="https://i.ibb.co/5RLq8HT/5994427.jpg" alt="5994427" border="0"></a>
+<a href="https://ibb.co/3cgrmC1"><img src="https://i.ibb.co/5LbMhRT/site-coding-3.jpg" alt="site-coding-3" border="0"></a>
+<a href="https://ibb.co/6WF6PCY"><img src="https://i.ibb.co/5RLq8HT/5994427.jpg" alt="5994427" border="0"></a>
+<a href="https://ibb.co/bzD3wYr"><img src="https://i.ibb.co/TmdTjJH/20943839.jpg" alt="20943839" border="0"></a>
 */
